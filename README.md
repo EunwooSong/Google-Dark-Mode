@@ -17,11 +17,11 @@
 
 ## Requirements:
 
-[X] Extension "Stylus" in your browser.
+[X] Extension "Stylus" in your browser. [Opera](https://userstyles.org/styles/181892/google-dark-mode-yes) | [Chorme, Brave](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=es) | [Firefox](https://addons.mozilla.org/es/firefox/addon/styl-us/?src=search)
 
 ## Installation:
 
-Click here to [install](https://userstyles.org/styles/181892/google-dark-mode-yes).
+Click here to [install](https://userstyles.org/styles/181892/google-dark-mode-yes). 
 
 ## Issues:
 
