@@ -3,7 +3,6 @@
    <img src="https://user-images.githubusercontent.com/48721794/78295480-834b9180-752c-11ea-946d-2b890ad6adf3.png" alt="FULL PING logo" width="72" height="72">
 </p>
 <hr>
-<br>
 
 
  # GOOGLE DARK MODE
@@ -22,7 +21,7 @@
 
 ## Installation:
 
-Click here to [install](https://userstyles.org/styles/181889/google-dark-mode-on).
+Click here to [install](https://userstyles.org/styles/181892/google-dark-mode-yes).
 
 ## Issues:
 
