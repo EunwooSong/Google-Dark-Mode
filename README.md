@@ -9,6 +9,14 @@
 
  Dark mode style for Google Search, Photos and Docs!
 
+ ## Requirements:
+
+[X] Extension "Stylus" in your browser. [Opera](https://userstyles.org/styles/181892/google-dark-mode-yes) | [Chorme, Brave](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=es) | [Firefox](https://addons.mozilla.org/es/firefox/addon/styl-us/?src=search)
+
+## Installation:
+
+Click here to [install](https://userstyles.org/styles/181892/google-dark-mode-yes). 
+
  ## Screenshots:
 
  ![google_search](https://user-images.githubusercontent.com/48721794/78293929-b80a1980-7529-11ea-9c8a-7c6c7eebf361.png)
@@ -18,15 +26,6 @@
 ![opera_79FJM6KyGD](https://user-images.githubusercontent.com/48721794/78512312-d7ac7680-77a3-11ea-9981-674ac22e3374.jpg)
 
 ![opera_S0BMARRdPQ](https://user-images.githubusercontent.com/48721794/78512398-746f1400-77a4-11ea-8aa4-26c21a4e3147.png)
-
-
-## Requirements:
-
-[X] Extension "Stylus" in your browser. [Opera](https://userstyles.org/styles/181892/google-dark-mode-yes) | [Chorme, Brave](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=es) | [Firefox](https://addons.mozilla.org/es/firefox/addon/styl-us/?src=search)
-
-## Installation:
-
-Click here to [install](https://userstyles.org/styles/181892/google-dark-mode-yes). 
 
 ## Issues:
 
